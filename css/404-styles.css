@@ -75,6 +75,7 @@ div.container-flex p:first-child{
 }
 .margin-button{
     margin-top: 50px;
+    margin-bottom: 50px;
 }
 .eightbit-btn span.arrow:after {
     content: '\00bb';
